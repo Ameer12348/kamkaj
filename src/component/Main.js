@@ -200,7 +200,7 @@ const Main = () => {
         </div>
         <div style={{backgroundColor:'#f3f6f9'}} className='py-3 my-5'>
             <div className="container" >
-                <div className="row row-cols-lg-3 row-cols-1 gap-5 align-items-center justify-content-between">
+                <div className="row row-cols-lg-4 gap-5 align-items-center justify-content-between">
                     <div >
                         <img className='w-100' style={{height:'400px',objectFit:'contain'}} src="https://www.kamkaj.pk/Content/images/kamkajV2/home-mobile.png" alt="" />
                     </div>

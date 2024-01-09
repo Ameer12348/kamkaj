@@ -11,7 +11,7 @@ const Footer = () => {
   return (
     <div className='container-fluid px-0 pt-5' style={{background:'url("https://www.kamkaj.pk/Content/images/kamkajV2/footer-bg.png") no-repeat center center /cover'}}>
         <div className="container">
-            <div className="row row-cols-1 row-cols-lg-4 gx-5">
+            <div className="row row-cols-1 row-cols-lg-4 gx-5 gy-3 gy-lg-2">
                 <div className='ps-5 ps-lg-2' >
                     <img src="https://www.kamkaj.pk/content/images/kamkajV2/logo-light.png" className='mb-3' alt="" />
                     <p className='text-light' style={{fontSize:"14px"}}>When it comes to Kam Kaj, the object of the word 'Kam' reflects our motive to add value to our customers' lives by providing all the essential services in their day-to-day lives. On the other hand, the word 'Kaj' highlights our motive to reduce the unemployment from Pakistan by hiring in-house staff whom we train in any given skills.</p>
@@ -48,7 +48,7 @@ const Footer = () => {
 
                 </div>
             </div>
-            <div className="row row-cols-1 row-cols-lg-2 gap-3 justify-content-between align-items-center">
+            <div className="d-flex flex-wrap pb-3 gap-3 justify-content-between align-items-center">
                 <div className="d-flex  align-items-center ps-4 ps-lg-1">
                     <h5 className='fw-bold text-light py-2 ' >Follow us</h5>
                     <button className=' text-light   text-center border border-light border-1 mx-2 rounded rounded-circle d-flex justify-content-center align-items-center' style={{backgroundColor:"transparent",width:'50px',height:'50px' ,fontSize:'30px'}}><FaFacebook/> </button>

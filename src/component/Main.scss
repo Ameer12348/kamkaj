@@ -1,0 +1,15 @@
+.fade-box{
+    translate: 50% 0%;
+    opacity: 0;
+    transition: all 1s 0.1s;
+}
+.faq-fade{
+    translate: 50% 0%;
+    opacity: 0;
+    transition: all 1s 0.1s;
+
+}
+.fade-appear{
+    translate: 0% 0%;
+    opacity: 1;
+}

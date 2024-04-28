@@ -146,7 +146,6 @@ const Footer = () => {
           </div>
         </div>
       </div>
-      fdafda;fdajk
     </div>
   );
 };
